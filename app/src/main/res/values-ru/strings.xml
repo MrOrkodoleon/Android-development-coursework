@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="enter_city_name">Введите название города (лат.), напр. Moscow</string>
+    <string name="search">Поиск</string>
+    <string name="city_name_cannot_be_empty">Название города не может быть пустым.</string>
+    <string name="city_not_found">Город \'%1$s\' не найден.</string>
+    <string name="could_not_get_coordinates">Не удалось получить координаты для %1$s.</string>
+    <string name="api_ninjas_error">Ошибка API Городов: %1$s %2$s</string>
+    <string name="open_meteo_api_error">Ошибка API Погоды: %1$s %2$s. Детали: %3$s</string>
+    <string name="network_error_fetching_coordinates">Сетевая ошибка при получении координат: %1$s</string>
+    <string name="network_error_fetching_weather">Сетевая ошибка при получении погоды: %1$s</string>
+    <string name="forecast_daily_title">Прогноз на 7 дней</string>
+    <string name="forecast_not_available">Прогноз недоступен</string>
+    <string name="current_temp_na">Н/Д</string>
+    <string name="weather_description_clear_sky">Ясно</string>
+    <string name="weather_description_mainly_clear">Преимущественно ясно</string>
+    <string name="weather_description_partly_cloudy">Переменная облачность</string>
+    <string name="weather_description_overcast">Пасмурно</string>
+    <string name="weather_description_fog">Туман</string>
+    <string name="weather_description_drizzle">Морось</string>
+    <string name="weather_description_freezing_drizzle">Ледяная морось</string>
+    <string name="weather_description_rain">Дождь</string>
+    <string name="weather_description_freezing_rain">Ледяной дождь</string>
+    <string name="weather_description_snow_fall">Снегопад</string>
+    <string name="weather_description_snow_grains">Снежные зерна</string>
+    <string name="weather_description_rain_showers">Ливневый дождь</string>
+    <string name="weather_description_snow_showers">Ливневый снег</string>
+    <string name="weather_description_thunderstorm">Гроза</string>
+    <string name="weather_description_thunderstorm_hail">Гроза с градом</string>
+    <string name="weather_description_unknown">Неизвестно</string>
+    <string name="forecast_prefix">Прогноз:</string>
+    <string name="n_a">Н/Д</string>
+    <string name="unknown_name">Неизвестное название</string>
+
+</resources>
